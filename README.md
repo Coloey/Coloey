@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Coloey
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Vue,React,Node.js and TypeScript
-- company: baidu -> kuaishou
+- company:
+- 2023.1-2023.5 @baidu
+- 2023.6-now @kuaishou
 
 <!---
 Coloey/Coloey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
